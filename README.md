@@ -28,3 +28,7 @@ A simple and convenient To-Do list application that allows users to record and m
 ## Screenshots
 
 ![To-Do List Screenshot](screenshot.png)
+
+## Project URL
+
+Try this to-do list online :) [To-Do List](https://icy-guo.github.io/To-Do-List/)
